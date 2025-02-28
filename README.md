@@ -2,6 +2,8 @@
 
 Esta API é uma implementação simples em Node.js para testes, que expõe três endpoints principais para gerenciamento de dados de treinos e modalidades. Os dados padrão são carregados de dois arquivos JSON locais e são armazenados em memória, sendo resetados para os valores padrão a cada 24 horas.
 
+> **Observação:** Se você preferir utilizar a API sem precisar fazer todo o processo de instalação e configuração, você pode utilizá-la através da URL: [https://API-Esports.lcstuber.net/](https://API-Esports.lcstuber.net/)
+
 ---
 
 ## Funcionalidades
