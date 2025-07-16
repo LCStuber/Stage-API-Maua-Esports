@@ -154,7 +154,3 @@ Esta API é ideal para testes e demonstrações, utilizando dados locais sem con
 ## Licença
 
 Este projeto é fornecido "no estado em que se encontra", sem garantia expressa ou implícita. Modifique e utilize conforme necessário.
-
----
-
-Agora você tem um README completo para orientar a instalação, execução e utilização da API.
